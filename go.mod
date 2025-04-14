@@ -28,8 +28,7 @@ require (
 	github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d // indirect
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e // indirect
 	golang.org/x/arch v0.4.0 // indirect
-	golang.org/x/crypto v0.11.0
-	golang.org/x/net v0.12.0 // indirect
+	golang.org/x/crypto v0.35.0
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
